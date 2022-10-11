@@ -1,6 +1,5 @@
 
 
-let histories = [];
 let weather = {
     apiKey: "82e1a8847c4a7a0c77cf784775c6da24",
     fetchWeather: function (city){
