@@ -1,3 +1,6 @@
+
+<img width="300" alt="Screen Shot 2022-10-11 at 5 10 32 PM" src="https://user-images.githubusercontent.com/106838166/195219257-b23e8f8b-1f5c-4019-afb7-0d05ba1fdc80.png">
+
 # weather prediction
 
 ## Acceptance Criteria
